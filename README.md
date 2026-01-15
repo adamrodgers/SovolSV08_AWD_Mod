@@ -6,21 +6,21 @@
 | Type | Quantity | Link |
 | --- | --- | --- |
 | Shoulder screws 30mm long 5mm shaft with M3 thread ([check picture](Images/ShoulderSkrews.png)) | 8 | [AliExpress](https://www.aliexpress.com/item/1005004802215831.html) |
-| M5 1mm shims | 32 | M5x8x1 100pcs [Nindejin](https://vi.aliexpress.com/item/4000174460068.html) |
-| F695-2RS bearings | 32 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
-| M5x30 dowel pins | 10 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html) |
-| M4 heatset inserts M4 X D6.0 X L4.0 | 16 | [AliExpress](https://vi.aliexpress.com/item/4000232925592.html) |
 | M4x40 screws | 8 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M3x35 screws | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M3x30 screws | 4 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M3x20 screws | 2 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M3x10 screws | 4 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M4 heatset inserts M4 X D6.0 X L4.0 | 16 | [AliExpress](https://vi.aliexpress.com/item/4000232925592.html) |
 | M3 heatset inserts M3 X D5.0 X L4.0 | 11 | [AliExpress](https://vi.aliexpress.com/item/4000232858343.html) |
-| 8.5mm GT2 20-tooth pulley | 2 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html) |
+| F695-2RS bearings | 32 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
+| M5x30 dowel pins | 10 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html) |
+| M5 1mm shims | 32 | M5x8x1 100pcs [Nindejin](https://vi.aliexpress.com/item/4000174460068.html) |
 | GT2 6mm belts | 4 meters | [TriangleLab](https://www.aliexpress.com/item/1005006507781085.html) |
+| 8.5mm GT2 20-tooth pulley | 2 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html) |
 | GT2 20-tooth motor pulley for 6mm belt and 5mm shaft | 4 | [Mellow](https://vi.aliexpress.com/item/33023279793.html) |
-| Stepper drivers available to drive the extra motors | 2 |  |
 | Two additional matching motors | 2 | [Biqu](https://biqu.equipment/products/ldo-42sth48-2504ac-reva-motor-driver?variant=39991585636450) |
+| Stepper drivers available to drive the extra motors | 2 |  |
 
 ### Optional for Double Shear
 
